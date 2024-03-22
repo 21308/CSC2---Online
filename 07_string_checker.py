@@ -1,0 +1,1 @@
+# Checks that the user has a valid response 
